@@ -161,7 +161,7 @@
 
          <!--添加依赖的jar包-->
          <dependencies>
-             <!--项目要使用到junit的jar包，所以在这里添加junit的jar包的依赖-->
+             <!--项目要使用到junit的jar包，所以在这里添加junit的jar包的依赖 -->
              <dependency>
                  <groupId>junit</groupId>
                  <artifactId>junit</artifactId>
