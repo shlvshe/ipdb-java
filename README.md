@@ -1,14 +1,5 @@
 # ipdb-java
-IPIP.net officially supported IP database ipdb format parsing library
+IP数据库解析
 
-# Notice
-<pre>
-请直接用github上源码包
-报错请检查 fastjson 版本是否太低，请使用最新版本
-</pre>
-# Documents
-* [中文文档](https://github.com/ipipdotnet/ipdb-java/blob/master/README_zh.md)
-* [English Docs](https://github.com/ipipdotnet/ipdb-java/blob/master/README_en.md)
 
-# CopyRight
-[IPIP.net](https://www.ipip.net)
+<p>IP地址位置数据由<a href="https://www.cz88.net">纯真CZ88</a>提供支持</p>
